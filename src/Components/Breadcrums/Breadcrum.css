@@ -1,0 +1,14 @@
+.breadcrum img{
+    width:15px;
+    height: 15px;
+}
+.breadcrum{
+    display:flex;
+    align-items: center;
+    gap:18px;
+    color:#5e5e5e;
+    font-size: 14px;
+    font-weight:600;
+    margin: 28px 130px;
+    text-transform:capitalize;
+}
